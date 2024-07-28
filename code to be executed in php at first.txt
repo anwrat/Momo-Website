@@ -1,0 +1,21 @@
+1st Step:
+create database users;
+
+2nd step:
+create table users(
+    id int(10) primary key,
+    user_name varchar(100),
+    user_pass varchar(50),
+    user_email varchar(100)
+    );
+
+3rd Step:
+create table admin( id int(10) primary key, admin_name varchar(100), admin_pass varchar(100) );
+
+4th Step:
+Open 'registration.php'  or 'login.php'
+
+For Admin Login:
+Open admin_login.php
+
+THen create a admin database using sql , then login using website.
