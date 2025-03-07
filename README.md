@@ -31,7 +31,6 @@ THen create a admin database using sql , then login using website.
 ![image](https://github.com/user-attachments/assets/34be2c26-9652-4a72-871d-f5b85e931a37)<br>
 ![image](https://github.com/user-attachments/assets/16216289-0bc2-4c09-bd60-e0f50200eeba)<br>
 ![image](https://github.com/user-attachments/assets/e03c8ac4-d8e2-4223-8569-406d21ac9220)<br>
-![image](https://github.com/user-attachments/assets/b50aba5b-ac76-4fca-8416-d5684be4377c)<br>
 
 
 
